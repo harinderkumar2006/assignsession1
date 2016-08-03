@@ -1,0 +1,19 @@
+package session1assignment;
+
+public class session1ass {
+
+	public static void main(String[] args) {
+        int e =500;	
+		float f = 10.1f;
+		
+		/*System.out.println(f);*/
+		
+		int in = (int)f;
+		
+		System.out.println(in+e);
+		
+		/*in += e; // in = in X 1
+*/		
+		/*System.out.println(in);*/
+	}
+}
